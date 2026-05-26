@@ -5,4 +5,4 @@ if age > 21:
 elif age < 35:
     print(" you are eligible for the course")
 else :
-    print(" you are not eligible for the course")
+    print(" you are not eligible for the coourse")
