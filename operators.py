@@ -19,7 +19,7 @@ print("result ", one*two)
 elif choice=="4":
 print("result ", one/two)
 else:
-print("invalid input")
+print(" invalid input ")
 
 
 
