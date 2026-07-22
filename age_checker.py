@@ -1,4 +1,4 @@
-age = int(input ("enter your age"))  #this is a age checker code.
+age = int(input ("enter your age"))  #this is a age checker code btw.
 
 if age > 21:
     print(" you are eligible for the course ")
