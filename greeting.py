@@ -1,4 +1,4 @@
-name = input("What is your name? ") #this is a code greeeet and then it also tells the length of the string. 
+name = input("What is your name? ") #this is a code greeeeet and then it also tells the length of the string. 
 
 print("Helloooooooooo", name)
 print(" Welcome to Day 5 of GitHub learning ")
